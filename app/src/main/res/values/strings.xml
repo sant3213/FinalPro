@@ -8,9 +8,9 @@
     <string name="bienvenido">Bienvenido!!</string>
     <string name="txtapellidos">Apellidos</string>
     <string name="txttelefono">Telefono</string>
-    <string name="txtemail">email</string>
+    <string name="txtemail">Correo electrónico</string>
     <string name="txtdireccion">Dirección</string>
-    <string name="fecha">Fecha de nacimiento</string>
+    <string name="fecha">Fecha nacimiento</string>
     <string name="Genero">Genero</string>
     <string name="txtmasculino">Masculino</string>
     <string name="txtfemenino">Femenino</string>
@@ -22,5 +22,6 @@
   <string name="welcome">Bienvenid@</string>
     <string name="sign_in">Ingresar</string>
     <string name="sign_up">Registrarse</string>
+  <string name="sex">Sexo</string>
 
 </resources>
