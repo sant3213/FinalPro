@@ -2,7 +2,7 @@
     <string name="app_name">FinalPro</string>
     <string name="txtnombre">Nombre</string>
     <string name="correo">Correo</string>
-    <string name="contraseña">Contraseña</string>
+    <string name="contrasena">Contraseña</string>
     <string name="btnregistro">Ir a registro</string>
     <string name="btningresar">Ingresar</string>
     <string name="bienvenido">Bienvenido!!</string>
@@ -19,5 +19,8 @@
     <string name="btntomarfoto">Tomar foto</string>
     <string name="btnregistrar">Registrar</string>
     <string name="registro">Registro</string>
+  <string name="welcome">Bienvenid@</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="sign_up">Registrarse</string>
 
 </resources>

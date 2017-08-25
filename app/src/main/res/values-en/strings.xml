@@ -8,7 +8,7 @@
     <string name="btnregistrar">Sign up</string>
     <string name="btnregistro">Sing up</string>
     <string name="btntomarfoto">Take a pic</string>
-    <string name="contraseña">Password</string>
+    <string name="contrasena">Password</string>
     <string name="correo">Email</string>
     <string name="fecha">Birthday</string>
     <string name="registro">Sign up</string>
@@ -20,4 +20,7 @@
     <string name="txtmasculino">Male</string>
     <string name="txtnombre">Name</string>
     <string name="txttelefono">Phone number</string>
+  <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
 </resources>
