@@ -24,4 +24,8 @@
     <string name="sign_in">Sign in</string>
     <string name="sign_up">Sign up</string>
   <string name="sex">Gender</string>
+  <string name="city">City</string>
+  <string name="photo">Photo</string>
+  <string name="update_profile">Update profile</string>
+  <string name="get_out">Exit</string>
 </resources>

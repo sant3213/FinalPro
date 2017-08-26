@@ -23,5 +23,9 @@
     <string name="sign_in">Ingresar</string>
     <string name="sign_up">Registrarse</string>
   <string name="sex">Sexo</string>
+    <string name="city">Ciudad</string>
+  <string name="photo">Foto</string>
+  <string name="update_profile">Actualizar perfil</string>
+  <string name="get_out">Salir</string>
 
 </resources>
