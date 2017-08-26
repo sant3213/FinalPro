@@ -7,16 +7,18 @@ import android.os.Bundle;
 
 public class Splash extends AppCompatActivity {
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                Intent intent=new Intent(Splash.this, Log_In.class);
-                startActivity(intent);
-            }
-        }, 4000);
-    }
+  private final int SPLASH_DISPLAY_LENGTH = 4000;
+
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_splash);
+    new Handler().postDelayed(new Runnable() {
+      @Override
+      public void run() {
+        Intent intent = new Intent(Splash.this, LogIn.class);
+        Splash.this.startActivity(intent);
+      }
+    }, SPLASH_DISPLAY_LENGTH);
+  }
 }

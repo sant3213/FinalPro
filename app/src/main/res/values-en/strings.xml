@@ -8,16 +8,24 @@
     <string name="btnregistrar">Sign up</string>
     <string name="btnregistro">Sing up</string>
     <string name="btntomarfoto">Take a pic</string>
-    <string name="contraseña">Password</string>
+    <string name="contrasena">Password</string>
     <string name="correo">Email</string>
     <string name="fecha">Birthday</string>
     <string name="registro">Sign up</string>
-    <string name="txtapellidos">Middle name</string>
+    <string name="txtapellidos">Last name</string>
     <string name="txtcargarfoto">Upload photo</string>
     <string name="txtdireccion">Address</string>
     <string name="txtemail">Email</string>
     <string name="txtfemenino">Female</string>
     <string name="txtmasculino">Male</string>
-    <string name="txtnombre">Name</string>
+    <string name="txtnombre">First name</string>
     <string name="txttelefono">Phone number</string>
+  <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+  <string name="sex">Gender</string>
+  <string name="city">City</string>
+  <string name="photo">Photo</string>
+  <string name="update_profile">Update profile</string>
+  <string name="get_out">Exit</string>
 </resources>
